@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Telecentros 2009</title>
+	<atom:link href="http://www.telecentros2009pe.com.br/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://www.telecentros2009pe.com.br</link>
+	<description>Só mais um blog do WordPress</description>
+	<lastBuildDate>Wed, 11 Nov 2009 14:52:31 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.1</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Olá, mundo!</title>
+		<link>http://www.telecentros2009pe.com.br/?p=1</link>
+		<comments>http://www.telecentros2009pe.com.br/?p=1#comments</comments>
+		<pubDate>Wed, 11 Nov 2009 14:52:31 +0000</pubDate>
+		<dc:creator>Administrador</dc:creator>
+				<category><![CDATA[Sem categoria]]></category>
+
+		<guid isPermaLink="false">http://www.wilivro.com.br/interacao/telecentro2009/?p=1</guid>
+		<description><![CDATA[Bem-vindo ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o e comece a brincadeira!
+]]></description>
+			<content:encoded><![CDATA[<p>Bem-vindo ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o e comece a brincadeira!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.telecentros2009pe.com.br/?feed=rss2&amp;p=1</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
