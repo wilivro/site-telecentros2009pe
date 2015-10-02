@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comentários sobre: Cursos</title>
+	<atom:link href="http://www.telecentros2009pe.com.br/?feed=rss2&#038;page_id=9" rel="self" type="application/rss+xml" />
+	<link>http://www.telecentros2009pe.com.br</link>
+	<description>Só mais um blog do WordPress</description>
+	<lastBuildDate>Thu, 11 Nov 2010 11:33:51 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.1</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Por: Administrador</title>
+		<link>http://www.telecentros2009pe.com.br/?page_id=9&#038;cpage=1#comment-53</link>
+		<dc:creator>Administrador</dc:creator>
+		<pubDate>Mon, 10 May 2010 15:49:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.wilivro.com.br/interacao/telecentro2009/?page_id=9#comment-53</guid>
+		<description>Prezada Jocemiria!
+
+Primeiramente, agradecemos a sua participação no nosso blog!
+Para mais informações, seu e-mail foi encaminhado ao setor responsável, peço que aguarde o retorno.
+
+Atenciosamente,
+Equipe de Relacionamento.</description>
+		<content:encoded><![CDATA[<p>Prezada Jocemiria!</p>
+<p>Primeiramente, agradecemos a sua participação no nosso blog!<br />
+Para mais informações, seu e-mail foi encaminhado ao setor responsável, peço que aguarde o retorno.</p>
+<p>Atenciosamente,<br />
+Equipe de Relacionamento.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: JOCEMIRIA SUELANE DA SILVA</title>
+		<link>http://www.telecentros2009pe.com.br/?page_id=9&#038;cpage=1#comment-47</link>
+		<dc:creator>JOCEMIRIA SUELANE DA SILVA</dc:creator>
+		<pubDate>Wed, 05 May 2010 14:17:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.wilivro.com.br/interacao/telecentro2009/?page_id=9#comment-47</guid>
+		<description>Olá!
+Sou professora da rede estadual de ensino e gostaria de maiores informações acerca dos cursos e ainda como posso cadastrar-me.
+Aguardo as informações.
+Grata</description>
+		<content:encoded><![CDATA[<p>Olá!<br />
+Sou professora da rede estadual de ensino e gostaria de maiores informações acerca dos cursos e ainda como posso cadastrar-me.<br />
+Aguardo as informações.<br />
+Grata</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

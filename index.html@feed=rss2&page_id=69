@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comentários sobre: Histórico de Noticias</title>
+	<atom:link href="http://www.telecentros2009pe.com.br/?feed=rss2&#038;page_id=69" rel="self" type="application/rss+xml" />
+	<link>http://www.telecentros2009pe.com.br</link>
+	<description>Só mais um blog do WordPress</description>
+	<lastBuildDate>Thu, 11 Nov 2010 11:33:51 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.1</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>Por: Deiverson</title>
+		<link>http://www.telecentros2009pe.com.br/?page_id=69&#038;cpage=1#comment-241</link>
+		<dc:creator>Deiverson</dc:creator>
+		<pubDate>Tue, 21 Sep 2010 13:11:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.telecentros2009pe.com.br/?page_id=69#comment-241</guid>
+		<description>Pessoal só uma observação, na reunião do dia 27, no recife praia hotel, o representante do telecentro de Itaquitinga também se fez presente.</description>
+		<content:encoded><![CDATA[<p>Pessoal só uma observação, na reunião do dia 27, no recife praia hotel, o representante do telecentro de Itaquitinga também se fez presente.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
